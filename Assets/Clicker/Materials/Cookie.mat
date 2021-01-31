@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Cookie
+  m_Shader: {fileID: -6465566751694194690, guid: a4aa7849f2290704ca470aab43f6730d, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_c4d78268a14c46e99a87a6da9cb0beb3:
+        m_Texture: {fileID: 2800000, guid: 7ef93d79deff45b46a371753bf641d4d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_89225f355d844fd89bd1339eb477d0c6_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 7ef93d79deff45b46a371753bf641d4d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_d71c3b00b3324e689b441dea1b3875b7: 2.35
+    m_Colors:
+    - Color_32c51ec34db8417a9bdc222360481ae7: {r: 1, g: 0.9183337, b: 0.9, a: 0}
+    - Color_df4ae610b8774dfa8f10a120e98fd2b7: {r: 0.5566038, g: 0.2940487, b: 0.19113562, a: 1}
+  m_BuildTextureStacks: []
